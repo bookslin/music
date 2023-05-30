@@ -1,0 +1,17 @@
+/* components/menu-area/menu-area.wxss */
+/* 热门歌单 */
+
+.hot-menu .list {
+    /* display: flex; */
+    /* height: 300rpx; */
+    white-space: nowrap;
+
+}
+.hot-menu .list .item{
+    /* flex-shrink: 0; */
+    display: inline-block;
+    white-space: normal;
+    width: 220rpx;
+    margin-right: 20rpx;
+
+}
